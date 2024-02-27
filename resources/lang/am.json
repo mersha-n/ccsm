@@ -1,0 +1,112 @@
+{
+    "Dashboard":"ዳሽቦርድ",
+    "title":"ፍርድ ቤት",
+    "courtID":"መ/ቁ",
+    "name":"ስም",
+    "courtType":"የፍ/አይነት",
+    "speciality":"ሙያ",
+    "description":"መግለጫ",
+    "action":"አክሽን",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+
+    "title":"ቀጠሮ",
+    "casehearID":"የችሎት መ/ቁ",
+    "casehearDate":"የችሎት ቀን",
+    "description":"መግለጫ",
+    "action":"አክሽን",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+
+    "title":"ጠበቃ",
+    "courtID":"መ/ቁ",
+    "attorneyID":"የጠበቃ መ/ቁ",
+    "name":"ስም",
+    "address":"አድራሻ",
+    "state":"ክልል",
+    "courtType":"የፍ/አይነት",
+    "Employeetype":"የቅጥር አይነት",
+    "description":"መግለጫ",
+    "action":"አክሽን",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+
+    "title":"ማረሚያ ቤት",
+    "courtID":"ፍር/መ/ቁ",
+    "address":"አድራሻ",
+    "state":"ክልል",
+    "location":"ቦታ",
+    "description":"መግለጫ",
+    "action":"አክሽን",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+
+    "title":"ክስ ቻርጅ",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+    "actions":"አክሽን",
+    "deptName":"የጦር ክፍል",
+     "rank":"ማእረግ",
+     "mid":"መለያ ቁጥር",
+     "name":"ሙሉ ስም",
+     "address":"አድራሻ",
+    "state":"ክልል",
+     "crimeDescription": "የወንጀሉ አይነት",
+     "crimeDate": "ወንጀሉ የተደረገበት ቀን",
+     "ChargeDate": "ክስ የተመሰረተበት ቀን",
+
+     "title":"የችሎት ቀን",
+     "create":"አዲስ አስገባ",
+     "search":"ፈልግ",
+     "actions":"አክሽን",
+     "courtID":"ፍር/መ/ቁ",
+     "attorneyID":"የጠበቃ መ/ቁ",
+     "judgeID":"የዳኛው ስም",
+     "charge_id":"የክስ መ/ቁ",
+     "casename":"የወንጀሉ አይነት",
+     "wittnessID":"የምስክር ስም",
+     "CaseID":"የወንጀሉ መ/ቁ",
+     "fileNumber":"የመዝገብ ቁጥር",
+     "address":"አድራሻ",
+     "state":"ክልል",
+     "location":"ቦታ",
+     "caseStartDate":"ችሎቱ የጀመረበት",
+     "description":"መግለጫ",
+
+
+     "title":"የችሎት ቀን",
+     "create":"አዲስ አስገባ",
+     "search":"ፈልግ",
+     "actions":"አክሽን",
+     "description":"መግለጫ",
+     "hear_id":"የችሎት መ/ቁ",
+     "decisionDate":"የውሳኔ ቀን",
+     "Decisiontype":"የውሳኔው አይነት",
+    
+
+     "title":"ተጠቃሚ",
+     "create":"አዲስ አስገባ",
+     "search":"ፈልግ",
+     "actions":"አክሽን",
+     "description":"መግለጫ",
+     "name":"ሙሉ ስም",
+     "email":"ኢሜል አድራሻ",
+    
+    "login":"ግባ",
+
+
+    "title":"ተጠቃሚ",
+    "create":"አዲስ አስገባ",
+    "search":"ፈልግ",
+    "name":"ሙሉ ስም",
+    "actions":"አክሽን",
+
+    
+    "wittnessType":"የምስክር አይነት"
+
+
+
+
+
+
+    }  
